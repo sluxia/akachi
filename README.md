@@ -1,4 +1,4 @@
-# agentmink
+# Akachi
 Company OS with PII Blocker that enables businesses safely interact with AI safely.
 
 ## How to use
